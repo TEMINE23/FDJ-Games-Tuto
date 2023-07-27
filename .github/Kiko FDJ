@@ -1,0 +1,8 @@
+# Documentation du tuto Github avec Git
+
+# Initialiser du dépôt 
+
+```bash
+git init
+git remote add origin git@github.com:TEMINE23/FDJ-Games-Tuto.git
+```
